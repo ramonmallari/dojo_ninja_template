@@ -1,0 +1,35 @@
+*{
+    margin:auto;
+}
+.container{
+    width: 970px;
+    height: auto;
+    background-color: rgb(216, 216, 216);
+}
+.all_dojos{
+    width: 300px;
+}
+.add_dojo{
+    margin:15px;
+    width: 450px;
+    height: auto;
+    display: inline-block;
+}
+li{
+    margin:5px;
+}
+.add_ninja{
+    margin:15px;
+    width: 450px;
+    height: auto;
+    display: inline-block;
+}
+p{
+    margin:5px;
+}
+#top_border{
+    width: 900px;
+    height:auto;
+    border-top: 3px solid black;
+    margin-top: 10px;
+}
